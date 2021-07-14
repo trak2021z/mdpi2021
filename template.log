@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.2)  14 JUL 2021 17:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.2)  14 JUL 2021 18:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1247,11 +1247,11 @@ Package newfloat Info: `float' package detected.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 Package epstopdf Info: Source file: <Definitions/logo-mdpi.eps>
-(epstopdf)                    date: 2018-07-22 06:33:52
+(epstopdf)                    date: 2021-07-14 17:23:56
 (epstopdf)                    size: 736786 bytes
 (epstopdf)             Output file: <Definitions/logo-mdpi-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2021-07-14 17:02:55
+(epstopdf)                    date: 2021-07-14 17:23:56
 (epstopdf)                    size: 44165 bytes
 (epstopdf)             Command: <repstopdf --outfile=Definitions/logo-mdpi-eps-
 converted-to.pdf Definitions/logo-mdpi.eps>
@@ -1321,11 +1321,11 @@ Package microtype Info: Loading generic protrusion settings for font family
 File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
 )
 Package epstopdf Info: Source file: <Definitions/logo-orcid.eps>
-(epstopdf)                    date: 2018-07-22 06:33:52
+(epstopdf)                    date: 2021-07-14 17:23:56
 (epstopdf)                    size: 284378 bytes
 (epstopdf)             Output file: <Definitions/logo-orcid-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2021-07-14 17:02:55
+(epstopdf)                    date: 2021-07-14 17:23:56
 (epstopdf)                    size: 12602 bytes
 (epstopdf)             Command: <repstopdf --outfile=Definitions/logo-orcid-eps
 -converted-to.pdf Definitions/logo-orcid.eps>
@@ -1389,11 +1389,11 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 Package epstopdf Info: Source file: <Definitions/logo-mdpi.eps>
-(epstopdf)                    date: 2018-07-22 06:33:52
+(epstopdf)                    date: 2021-07-14 17:23:56
 (epstopdf)                    size: 736786 bytes
 (epstopdf)             Output file: <Definitions/logo-mdpi-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2021-07-14 17:02:55
+(epstopdf)                    date: 2021-07-14 17:23:56
 (epstopdf)                    size: 44165 bytes
 (epstopdf)             Command: <repstopdf --outfile=Definitions/logo-mdpi-eps-
 converted-to.pdf Definitions/logo-mdpi.eps>
@@ -1426,11 +1426,11 @@ This may cause the page layout to be inconsistent, however.
 
 [2]
 Package epstopdf Info: Source file: <Definitions/logo-mdpi.eps>
-(epstopdf)                    date: 2018-07-22 06:33:52
+(epstopdf)                    date: 2021-07-14 17:23:56
 (epstopdf)                    size: 736786 bytes
 (epstopdf)             Output file: <Definitions/logo-mdpi-eps-converted-to.pdf
 >
-(epstopdf)                    date: 2021-07-14 17:02:55
+(epstopdf)                    date: 2021-07-14 17:23:56
 (epstopdf)                    size: 44165 bytes
 (epstopdf)             Command: <repstopdf --outfile=Definitions/logo-mdpi-eps-
 converted-to.pdf Definitions/logo-mdpi.eps>
@@ -1468,7 +1468,7 @@ Package rerunfilecheck Info: File `template.out' has not changed.
 Here is how much of TeX's memory you used:
  31136 strings out of 480608
  559782 string characters out of 5903630
- 866215 words of memory out of 5000000
+ 866281 words of memory out of 5000000
  46214 multiletter control sequences out of 15000+600000
  592184 words of font info for 245 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1480,7 +1480,7 @@ ve/2020/texmf-dist/fonts/type1/public/cm-super/sfss0500.pfb></usr/local/texlive
 /2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2020/t
 exmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-di
 st/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on template.pdf (5 pages, 157025 bytes).
+Output written on template.pdf (5 pages, 157061 bytes).
 PDF statistics:
  174 PDF objects out of 1000 (max. 8388607)
  152 compressed objects within 2 object streams
